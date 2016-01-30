@@ -1,40 +1,12 @@
-========================================================================
-    CONSOLE APPLICATION : Array Project Overview
-========================================================================
+Tarea de Arreglos
+===============================================================================
 
-AppWizard has created this Array application for you.
+Esta tarea se basa en el uso de los arreglos. En el cual podemos ir agregando,
+eliminando, insertando y viendo todos los valores contenidos en el arreglo.
 
-This file contains a summary of what you will find in each of the files that
-make up your Array application.
-
-
-Array.vcxproj
-    This is the main project file for VC++ projects generated using an Application Wizard.
-    It contains information about the version of Visual C++ that generated the file, and
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
-
-Array.vcxproj.filters
-    This is the filters file for VC++ projects generated using an Application Wizard. 
-    It contains information about the association between the files in your project 
-    and the filters. This association is used in the IDE to show grouping of files with
-    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
-    "Source Files" filter).
-
-Array.cpp
-    This is the main application source file.
-
-/////////////////////////////////////////////////////////////////////////////
-Other standard files:
-
-StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named Array.pch and a precompiled types file named StdAfx.obj.
-
-/////////////////////////////////////////////////////////////////////////////
-Other notes:
-
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
-
-/////////////////////////////////////////////////////////////////////////////
+Podemos encontrar 5 funciones las cuales son:
+-Buscar: Busca el valor mandado en los parametros
+-Agregar: Agrega el valor al arreglo modificando el tamaño del mismo
+-Insertar: Inserta un valor en el arreglo en una posicion especifica
+-Eliminar: Elimina el valor deseado
+-PrintArreglo:Imprime todos los valores contenidos en el arreglo.
