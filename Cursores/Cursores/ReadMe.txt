@@ -1,40 +1,15 @@
 ========================================================================
     CONSOLE APPLICATION : Cursores Project Overview
 ========================================================================
+Este proyecto es un ejemplo de como poder hacer uso de los cursores.
 
-AppWizard has created this Cursores application for you.
+Este proyecto hace el uso de cursores en lo que es un arreglo de 
+numeros.
 
-This file contains a summary of what you will find in each of the files that
-make up your Cursores application.
-
-
-Cursores.vcxproj
-    This is the main project file for VC++ projects generated using an Application Wizard.
-    It contains information about the version of Visual C++ that generated the file, and
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
-
-Cursores.vcxproj.filters
-    This is the filters file for VC++ projects generated using an Application Wizard. 
-    It contains information about the association between the files in your project 
-    and the filters. This association is used in the IDE to show grouping of files with
-    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
-    "Source Files" filter).
-
-Cursores.cpp
-    This is the main application source file.
-
-/////////////////////////////////////////////////////////////////////////////
-Other standard files:
-
-StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named Cursores.pch and a precompiled types file named StdAfx.obj.
-
-/////////////////////////////////////////////////////////////////////////////
-Other notes:
-
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
-
-/////////////////////////////////////////////////////////////////////////////
+Podemos encontrar 6 funciones para este programa:
+1-Crear : Crea la lista
+2-Buscar : Busca el numero dependiendo de la lista
+3-Buscar anterior : Busca el numero anterior de la lista
+4-Eliminar : elimina un valor de determinada lista
+5-Agregar : Agrega un numero a la lista
+6-Print : Imprime la lista
