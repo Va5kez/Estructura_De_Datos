@@ -1,0 +1,15 @@
+﻿Build started 3/31/2016 9:17:16 PM.
+     1>Project "c:\Users\Victor\documents\visual studio 2013\Projects\Colas\Colas\Colas.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Colas.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Colas.cpp
+         Colas.cpp
+     1>c:\users\victor\documents\visual studio 2013\projects\colas\colas\colas.cpp(59): warning C4101: 'colas' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\victor\documents\visual studio 2013\Projects\Colas\Debug\Colas.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\victor\documents\visual studio 2013\Projects\Colas\Debug\Colas.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\victor\documents\visual studio 2013\Projects\Colas\Debug\Colas.lib" /MACHINE:X86 Debug\Colas.obj
+         Debug\stdafx.obj
+         Colas.vcxproj -> c:\users\victor\documents\visual studio 2013\Projects\Colas\Debug\Colas.exe
+     1>Done Building Project "c:\Users\Victor\documents\visual studio 2013\Projects\Colas\Colas\Colas.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.66
